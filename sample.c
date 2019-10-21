@@ -1,5 +1,6 @@
 void main()
 {
 .....
-   printf("sathya tech");
+   printf("sathya ");
+   printf("bangalore")
 }
